@@ -1,0 +1,33 @@
+.row{margin: 0;}
+table {
+  text-align: right !important;
+  color: #e6e6e6;
+  background-color: #1b262d;
+  min-width: 400px !important;
+  padding: 10px;
+}
+thead tr {
+  color: #899094 !important;
+  padding: 5px 0;
+}
+thead th {
+  text-align: right !important;
+  padding: 4px 10px;
+}
+span.curr {
+  padding-left: 3px;
+  color: #899094 !important;
+}
+td.inc,tr.inc {
+  color: #7a9c4a !important;
+}
+td.dec,tr.dec {
+  color: #aa6064 !important;
+}
+tr {
+  cursor: pointer;
+  padding: 3px 0;
+}
+td {
+  padding: 0 5px;
+}
