@@ -9,7 +9,5 @@ __Using__ “REST PUBLIC ENDPOINTS & WEBSOCKET PUBLIC CHANNELS” only
 - [ ] Order book table
 - [ ] Trading view chart
 
-### Demo
-![Demo](https://github.com/msehgal93/nash-react-task/demo.gif)
-
-[View it Live](https://github.com/msehgal93/nash-react-task/index.html)
+### Demo [View it Live](https://msehgal93.github.io/nash-react-task/index.html)
+![Demo](https://msehgal93.github.io/nash-react-task/demo.gif)
