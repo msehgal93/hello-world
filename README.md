@@ -1,13 +1,13 @@
-# BitFinex
-__Create__ elements of [this Page](https://www.bitfinex.com/demo)<br>
-__From__  [Bitfinex API docs](https://docs.bitfinex.com/docs)<br>
-__Using__ “REST PUBLIC ENDPOINTS & WEBSOCKET PUBLIC CHANNELS” only
+# Websocket Demo Learning App
+__CREATE__ elements of [this Page](https://www.bitfinex.com/demo)<br>
+__DOCS__  [Bitfinex API docs](https://docs.bitfinex.com/docs)<br>
+__USING__ “WEBSOCKET PUBLIC CHANNELS”
 
-### Requirements
+### Checklist
 - [x] Ticker
 - [x] Trades
 - [ ] Order book table
 - [ ] Trading view chart
 
-### Demo [View it Live](https://msehgal93.github.io/nash-react-task/index.html)
-![Demo](https://msehgal93.github.io/nash-react-task/demo.gif)
+### Demo
+![Demo](https://raw.githubusercontent.com/msehgal93/websocket-react-learning-app/master/demo.gif)
