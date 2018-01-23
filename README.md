@@ -1,4 +1,4 @@
-# Websocket Demo Learning App
+# React Websocket Demo Learning App
 __CREATE__ elements of [this Page](https://www.bitfinex.com/demo)<br>
 __DOCS__  [Bitfinex API docs](https://docs.bitfinex.com/docs)<br>
 __USING__ “WEBSOCKET PUBLIC CHANNELS”
